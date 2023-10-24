@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnDmitriy
-- 🌱 I’m currently learning programming in the Saratov State University second year.
+- 🌱 I’m learning programming in the Saratov State University for the third year.
 - 📫 How to reach me? Via Vk:https://vk.com/d.konorov or email: dmitry222003@gmail.com
 
 <!---
