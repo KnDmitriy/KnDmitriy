@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnDmitriy
-- 🌱 I’m learning programming in the Saratov State University for the fourth year.
+- 🌱 I’m bachelor of Faculty of Computer Science and Information Technology of the Saratov State University. Honours degree.
 - 📫 How to reach me? Via Vk:https://vk.com/d.konorov or email: dmitry222003@gmail.com
 
 <!---
