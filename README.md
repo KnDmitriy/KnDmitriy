@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnDmitriy
-- 🌱 I’m bachelor of Faculty of Computer Science and Information Technology of the Saratov State University. Honours degree.
+- 🌱 I am a bachelor's degree holder from the Faculty of Computer Science and Information Technology at Saratov State University.
 - 📫 How to reach me? Via Vk:https://vk.com/d.konorov or email: dmitry222003@gmail.com
 
 <!---
