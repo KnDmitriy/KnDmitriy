@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KnDmitriy
-- 🌱 I am a bachelor's degree holder and first-year magistrant from the Faculty of Computer Science and Information Technology at Saratov State University.
+- 🌱 I am a bachelor's degree holder and second-year magistrant from the Faculty of Computer Science and Information Technology at Saratov State University.
 - 📫 How to reach me? Via Vk:https://vk.com/d.konorov or email: dmitry222003@gmail.com
 
 <!---
