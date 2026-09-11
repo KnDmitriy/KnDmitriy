@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KnDmitriy
+- 👋 Hi, I’m @KnDmitriy. I'm interested in computer science and machine learning.
 - 🌱 I am a bachelor's degree holder and second-year magistrant from the Faculty of Computer Science and Information Technology at Saratov State University.
 - 📫 How to reach me? Via Vk:https://vk.com/d.konorov or email: dmitry222003@gmail.com
 
